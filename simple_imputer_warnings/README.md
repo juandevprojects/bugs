@@ -1,4 +1,4 @@
-This folder contains a .csv file with 7 float64 columns and 900 rows
+This folder contains the numerical_vars.csv file with 7 float64 columns and 900 rows
 
 When SimpleImputer method from [SciKitLearn library](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html)
 is applied to this data: columns 0 and 1 was imputed normaly but from 2 to 6 raise the following warning.
