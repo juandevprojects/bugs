@@ -1,7 +1,7 @@
 This folder contains the numerical_vars.csv file with 7 float64 columns and 900 rows
 
 When SimpleImputer method from [SciKitLearn library](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html)
-is applied to this data: columns 0 and 1 was imputed normaly but from 2 to 6 raise the following warning.
+is applied to this data: columns 0 and 1 was imputed normally but from 2 to 6 raise the following warning.
 
 ``` python
 /python3.6/site-packages/numpy/core/fromnumeric.py:87: RuntimeWarning: invalid value encountered in reduce
