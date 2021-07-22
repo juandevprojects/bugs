@@ -30,7 +30,7 @@ respectively.
 Impute all columns without raise warning and using any data source (pickle or .csv)
 
 ## Actual behaviour
-numpy raise a warning when download data from pickle file
+numpy raise a warning on columns [2,6] in the original dataframe or when write and download data to/from pickle file
 ``` python
 /python3.6/site-packages/numpy/core/fromnumeric.py:87: RuntimeWarning: invalid value encountered in reduce
   return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
