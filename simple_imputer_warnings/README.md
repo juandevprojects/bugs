@@ -38,3 +38,6 @@ numpy raise a warning on columns [2,6] in the original dataframe or when write a
 
 ## Code Snippet / Additional information
 In simple_imputer_warning.py
+
+## StackOverflow question
+[https://stackoverflow.com/q/68478978/16495142](https://stackoverflow.com/q/68478978/16495142)
